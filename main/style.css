@@ -43,4 +43,5 @@ header {
 
 body {
     background-image: url(/images/Background-main.jpg);
+    background-size: cover;
 }
