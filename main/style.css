@@ -40,3 +40,7 @@ header {
     text-decoration: none;
     color: white;
 }
+
+body {
+    background-image: url(/images/Background-main.jpg);
+}
